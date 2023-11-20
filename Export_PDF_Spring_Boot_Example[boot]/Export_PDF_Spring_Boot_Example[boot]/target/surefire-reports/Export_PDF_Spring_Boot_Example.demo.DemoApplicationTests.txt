@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Export_PDF_Spring_Boot_Example.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.77 s - in Export_PDF_Spring_Boot_Example.demo.DemoApplicationTests
